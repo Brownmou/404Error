@@ -1,3 +1,3 @@
 # 404Error
 
-Una Praxtica Mas De CSS.
+Una Practica Mas De CSS.
